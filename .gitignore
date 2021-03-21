@@ -1,0 +1,8 @@
+README_SETUP.md
+iota_core_python-0.2.0_alpha.3-cp36-abi3-macosx_10_7_x86_64.whl
+osx-iota-client-py3.7-wheel.zip
+*.log
+.DS_Store
+.idea
+__pycache__
+venv

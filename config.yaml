@@ -1,0 +1,15 @@
+---
+production:
+  host:
+  sender_seed:
+  receiver_seed:
+  address:
+testnet:
+  host:
+  sender_seed:
+  receiver_seed:
+  address:
+timeout: 5
+tasks:
+#  what not: 10
+  HelloWorld: 10
